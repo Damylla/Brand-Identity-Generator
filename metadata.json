@@ -1,0 +1,6 @@
+{
+  "name": "Brand Bible: AI Brand Identity Generator",
+  "description": "Generate comprehensive Brand Bibles with primary logos, secondary marks, 5-color palettes with usage notes, Google Font pairings, brand imagery, and an AI brand strategist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
